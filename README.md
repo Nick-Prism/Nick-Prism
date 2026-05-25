@@ -15,20 +15,20 @@
 ---
 
 ## About Me
-
+ 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="58%" valign="top">
-
+ 
 I'm drawn to problems that **don't have clean answers yet.**
-
+ 
 Pre-final year CS student at BMS College of Engineering (GPA: 9.39), building multi-agent AI systems — getting language models to coordinate, make decisions, and operate with real autonomy. I've shipped production AI systems at **QuickInsights** and **Samsung PRISM**, built multi-agent pipelines on **LangGraph + GCP**, fine-tuned models on **Vertex AI**, and designed **RAG pipelines** integrated with BigQuery and Neo4j.
-
+ 
 I tend to test limits rather than accept them. Some of my best work came from ignoring what I was *supposed* to do.
-
+ 
 Outside AI — I care about **cars & engines, graphic design, astronomy, and physics.**
 *Whether it's a V10 or a Vector DB — I like understanding how things work.*
-
+ 
 ```python
 alok = {
     "currently" : "Agentic architectures & distributed ML pipelines",
@@ -36,7 +36,14 @@ alok = {
     "motto"     : "Build systems that learn. Learn systems that matter."
 }
 ```
-
+ 
+</td>
+<td width="42%" align="center" valign="top">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding gif"/>
+</td>
+</tr>
+</table>
+ 
 ---
 
 ## ⚙️ Tech Stack
