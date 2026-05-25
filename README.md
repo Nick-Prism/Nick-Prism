@@ -16,7 +16,9 @@
 
 ## About Me
 
-<img align="right" width="270" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="58%" valign="top">
 
 I'm drawn to problems that **don't have clean answers yet.**
 
@@ -35,7 +37,12 @@ alok = {
 }
 ```
 
-<br clear="right"/>
+</td>
+<td width="42%" align="center" valign="top">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding gif"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -112,12 +119,12 @@ alok = {
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| 🤖 **[Enterprise AI System](https://github.com/Nick-Prism/enterprise-ai-analyst)** | Modular multi-agent system processing heterogeneous data through unified pipelines; RAG across structured & unstructured data with Neo4j | Python · RAG · Neo4j · LangGraph | 🔒 Private · 🔨 In Progress |
-| 📈 **[Zeta](https://github.com/Nick-Prism/portfolio-manager)** | Distributed real-time stock market analysis; scalable ingestion, processing & monitoring on GCP | Python · MongoDB · Docker · GCP | 🔨 In Progress |
+| 🤖 **[Enterprise AI System](https://github.com/Nick-Prism/enterprise-ai-analyst)** | Modular enterprise AI system for processing multimodal data through unified ingestion and retrieval pipelines; hybrid retrieval across structured, unstructured, and visual data with scalable, maintainable components | Python · RAG · Knowledge Graph · Neo4j · LangGraph | 🔒 Private · 🔨 In Progress |
+| 📈 **[Zeta](https://github.com/Nick-Prism/portfolio-manager)** | Distributed real-time stock market analysis; multi-agent HITL reasoning system with a council of experts for price prediction; Telegram bot for trade automation; custom MCP integration with Zerodha; RLMF for pattern recognition | Python · LangGraph · MCP · MongoDB · Docker · GCP | 🔨 In Progress |
+| 🌿 **[Plant Disease Detector](https://github.com/Nick-Prism/Plant_Disease_Detector)** | Multi-model CNN implementation for plant disease detection and classification; iterative hyperparameter tuning; 97.9% validation accuracy | TensorFlow · CNNs · Python · Streamlit | ✅ Public |
+| 🎤 **InterviewIQ** | AI-powered interview simulation with automated evaluation pipelines; scoring logic across multiple dimensions with structured feedback generation; built in a 6-hour college hackathon | Python · Streamlit · APIs | ✅ Shipped |
+| 🏗️ **[Agent Architects Studio](https://github.com/Nick-Prism/agent-architects-studio)** | Experimental multi-agent architecture studio | Python | ✅ Public |
 | 🧪 **[Research Agent (AutoGen)](https://github.com/Nick-Prism/researchagent_autogen)** | Autonomous multi-agent research pipeline using AutoGen; agent coordination and task decomposition | Python · AutoGen · LLMs | ✅ Public |
-| 🤖 **[Agent Architects Studio](https://github.com/Nick-Prism/agent-architects-studio)** | Experimental multi-agent architecture studio | Python | ✅ Public |
-| 🎤 **InterviewIQ** | Interactive interview simulation with multi-dimensional evaluation pipelines and structured feedback | Python · Streamlit · APIs | ✅ Shipped |
-| 🌿 **[Plant Disease Detector](https://github.com/Nick-Prism/Plant_Disease_Detector)** | CNN-based plant disease classifier; 97.9% validation accuracy | CNNs · Python · Streamlit | ✅ Public |
 
 </details>
 
@@ -125,13 +132,16 @@ alok = {
 <summary><b>💼 Professional Experience</b></summary>
 <br>
 
-**AI Intern — QuickInsights** *(Nov 2025 – Apr 2026)*
-- Built data processing pipelines for large-scale performance analysis on cloud
-- Designed AI workflows improving system efficiency and automation by **45%**
+**AI Intern — QuickInsights.ai** *(Nov 2025 – May 2026 · Remote)*
+- Implemented Multi-Agent LangGraph pipeline to convert Natural Language to BigQuery for Dashboard and Report Generation
+- Built data processing pipelines for large-scale performance analysis on cloud infrastructure
+- Designed AI workflows that automated parts of the system, cutting manual effort by **~45%**
 
-**R&D Intern — Samsung Electronics (Samsung PRISM)** *(Jul 2025 – Mar 2026)*
-- Developed a scalable content extraction system across **10,000+ documents**
-- Improved accuracy and performance through iterative optimization
+**R&D Intern — Samsung R&D Institute India (Samsung PRISM)** *(Jul 2025 – Mar 2026 · Bengaluru)*
+- Built a rich labelled dataset of **10K+ webpages and articles** for content extraction
+- Trained an **XGBoost model** for node detection and classification with Random Forest ensembling
+- Followed an iterative approach for model optimization, improving classification logic
+- Bundled the project as a browser extension with cascading 3-tier logic; built a reader mode outperforming existing solutions
 
 </details>
 
@@ -139,7 +149,11 @@ alok = {
 
 ## 🏆 Certifications & Achievements
 
-- 🎖️ **Oracle Generative AI Professional** Certification (2025)
+- 🎖️ **Oracle Generative AI Professional** — Oracle (Aug 2025)
+- 🤖 **Applied Generative AI** — Infosys Springboard (Jan 2025)
+- 🧠 **AI-first Software Engineering** — Infosys Springboard (Jan 2025)
+- 💬 **Introduction to NLP** — Infosys Springboard (Nov 2025)
+- 🔧 **Prompt Engineering** — Infosys Springboard (Jan 2025)
 - ☁️ **Google Cloud Skills Boost** Badges (2024)
 - 🥇 Quarter Finalist — **CodeSphere** National Level Codeathon @ BMSCE
 - 🥇 Quarter Finalist — **Xcel Hackathon** @ BMSCE
