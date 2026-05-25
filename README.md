@@ -5,6 +5,10 @@
 
 <!-- Typing tagline -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58A6FF&height=220&section=header&text=ALOK%20AERI&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Researcher%20%C2%B7%20Builder&descAlignY=60&descSize=20&animation=fadeIn&fontAlign=50" width="100%"/>
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=Agentic+AI+%7C+Multi-Agent+Systems+%7C+RLHF+%7C+RLMF;Large-Scale+LLM+Deployment+%7C+MLOps+%7C+GCP;Building+systems+that+learn+%F0%9F%A4%96;Open+to+Research+Internships" alt="Typing SVG" />
 </div>
 
@@ -18,7 +22,7 @@
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="58%" valign="top">
+<td width="53%" valign="top">
 
 I'm drawn to problems that **don't have clean answers yet.**
 
@@ -28,6 +32,8 @@ I tend to test limits rather than accept them. Some of my best work came from ig
 
 Outside AI — I care about **cars & engines, graphic design, astronomy, and physics.**
 *Whether it's a V10 or a Vector DB — I like understanding how things work.*
+
+<div style="margin-bottom: -15px;">
 
 ```python
 alok = {
@@ -119,13 +125,11 @@ alok = {
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| 🤖 **[Enterprise AI System](https://github.com/Nick-Prism/enterprise-ai-analyst)** | Modular enterprise AI system for processing multimodal data through unified ingestion and retrieval pipelines; hybrid retrieval across structured, unstructured, and visual data with scalable, maintainable components | Python · RAG · Knowledge Graph · Neo4j · LangGraph | 🔒 Private · 🔨 In Progress |
 | 📈 **[Zeta](https://github.com/Nick-Prism/portfolio-manager)** | Distributed real-time stock market analysis; multi-agent HITL reasoning system with a council of experts for price prediction; Telegram bot for trade automation; custom MCP integration with Zerodha; RLMF for pattern recognition | Python · LangGraph · MCP · MongoDB · Docker · GCP | 🔨 In Progress |
 | 🌿 **[Plant Disease Detector](https://github.com/Nick-Prism/Plant_Disease_Detector)** | Multi-model CNN implementation for plant disease detection and classification; iterative hyperparameter tuning; 97.9% validation accuracy | TensorFlow · CNNs · Python · Streamlit | ✅ Public |
-| 🎤 **InterviewIQ** | AI-powered interview simulation with automated evaluation pipelines; scoring logic across multiple dimensions with structured feedback generation; built in a 6-hour college hackathon | Python · Streamlit · APIs | ✅ Shipped |
+| 🎤 **[InterviewIQ](https://github.com/Nick-Prism/InterviewIQ)** | AI-powered interview simulation with automated evaluation pipelines; scoring logic across multiple dimensions with structured feedback generation; built in a 6-hour college hackathon | Python · Streamlit · APIs | ✅ Shipped |
 | 🏗️ **[Agent Architects Studio](https://github.com/Nick-Prism/agent-architects-studio)** | Experimental multi-agent architecture studio | Python | ✅ Public |
 | 🧪 **[Research Agent (AutoGen)](https://github.com/Nick-Prism/researchagent_autogen)** | Autonomous multi-agent research pipeline using AutoGen; agent coordination and task decomposition | Python · AutoGen · LLMs | ✅ Public |
-
 </details>
 
 <details>
