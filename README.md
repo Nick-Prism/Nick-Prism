@@ -37,10 +37,11 @@ Outside AI — I care about **cars & engines, graphic design, astronomy, and phy
 
 </td>
 <td width="45%" align="center" valign="middle">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" width="100%" style="display: block; border-radius: 6px;" alt="coding gif"/>
+  <img src="https://cdn.pixabay.com/animation/2022/11/16/11/48/11-48-19-150_512.gif" width="100%" style="display: block; border-radius: 6px;" alt="coding gif"/>
 </td>
 </tr>
 </table>
+
 ---
 
 ## ⚙️ Tech Stack
