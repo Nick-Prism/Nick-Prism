@@ -119,6 +119,7 @@ alok = {
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
+| 🤖 **Enterprise AI System** | Modular enterprise AI system for processing multimodal data through unified ingestion and retrieval pipelines; hybrid retrieval across structured, unstructured, and visual data with scalable, maintainable components | Python · RAG · Knowledge Graph · Neo4j · LangGraph | 🔒 Private · 🔨 In Progress |
 | 📈 **[Zeta](https://github.com/Nick-Prism/portfolio-manager)** | Distributed real-time stock market analysis; multi-agent HITL reasoning system with a council of experts for price prediction; Telegram bot for trade automation; custom MCP integration with Zerodha; RLMF for pattern recognition | Python · LangGraph · MCP · MongoDB · Docker · GCP | 🔨 In Progress |
 | 🌿 **[Plant Disease Detector](https://github.com/Nick-Prism/Plant_Disease_Detector)** | Multi-model CNN implementation for plant disease detection and classification; iterative hyperparameter tuning; 97.9% validation accuracy | TensorFlow · CNNs · Python · Streamlit | ✅ Public |
 | 🎤 **[InterviewIQ](https://github.com/Nick-Prism/InterviewIQ)** | AI-powered interview simulation with automated evaluation pipelines; scoring logic across multiple dimensions with structured feedback generation; built in a 6-hour college hackathon | Python · Streamlit · APIs | ✅ Shipped |
