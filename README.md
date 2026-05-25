@@ -18,7 +18,7 @@
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="53%" valign="top">
+<td width="55%" valign="top" style="padding-right: 10px;">
 
 I'm drawn to problems that **don't have clean answers yet.**
 
@@ -29,23 +29,18 @@ I tend to test limits rather than accept them. Some of my best work came from ig
 Outside AI — I care about **cars & engines, graphic design, astronomy, and physics.**
 *Whether it's a V10 or a Vector DB — I like understanding how things work.*
 
-<div style="margin-bottom: -15px;">
-
-```python
-alok = {
-    "currently" : "Agentic architectures & distributed ML pipelines",
-    "open_to"   : "Research Internships in AI / ML / Data Science",
-    "motto"     : "Build systems that learn. Learn systems that matter."
-}
-```
+<pre style="background: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 16px; margin-top: 15px; margin-bottom: 0;"><code style="color: #e6edf3; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace; font-size: 13.6px; line-height: 1.45;"><span style="color: #ff7b72;">alok</span> = {
+    <span style="color: #a5d6ff;">"currently"</span> : <span style="color: #a5d6ff;">"Agentic architectures & distributed ML pipelines"</span>,
+    <span style="color: #a5d6ff;">"open_to"</span>   : <span style="color: #a5d6ff;">"Research Internships in AI / ML / Data Science"</span>,
+    <span style="color: #a5d6ff;">"motto"</span>     : <span style="color: #a5d6ff;">"Build systems that learn. Learn systems that matter."</span>
+}</code></pre>
 
 </td>
-<td width="42%" align="center" valign="top">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding gif"/>
+<td width="45%" align="center" valign="middle">
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" width="100%" style="display: block; border-radius: 6px;" alt="coding gif"/>
 </td>
 </tr>
 </table>
-
 ---
 
 ## ⚙️ Tech Stack
