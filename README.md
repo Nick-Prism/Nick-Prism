@@ -132,7 +132,7 @@ alok = {
 <summary><b>💼 Professional Experience</b></summary>
 <br>
 
-**AI Intern — QuickInsights** *(Nov 2025 – Apr 2026)*
+**AI Intern — QuickInsights** *(Nov 2025 – May 2026)*
 - Built data processing pipelines for large-scale performance analysis on cloud
 - Designed AI workflows improving system efficiency and automation by **45%**
 
