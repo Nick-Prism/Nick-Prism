@@ -42,38 +42,29 @@ alok = {
 ## ⚙️ Tech Stack
 
 **Languages**
-
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,js" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,java,c,js&theme=dark" />
 </p>
 
 **AI / ML**
-
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-  </a>&nbsp;
-  <img src="https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logo=langchain&logoColor=58A6FF"/>
-  <img src="https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logo=openai&logoColor=58A6FF"/>
-  <img src="https://img.shields.io/badge/Vector_DB-0d1117?style=for-the-badge&logo=pinecone&logoColor=58A6FF"/>
-  <img src="https://img.shields.io/badge/Knowledge_Graph-0d1117?style=for-the-badge&logo=neo4j&logoColor=58A6FF"/>
-  <img src="https://img.shields.io/badge/XGBoost-0d1117?style=for-the-badge&logo=python&logoColor=FF6F00"/>
-  <img src="https://img.shields.io/badge/RLHF%20%2F%20RLMF-0d1117?style=for-the-badge&logo=openai&logoColor=58A6FF"/>
-  <img src="https://img.shields.io/badge/CNN-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
-  <img src="https://img.shields.io/badge/MCP-0d1117?style=for-the-badge&logo=anthropic&logoColor=58A6FF"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+  <img src="https://img.shields.io/badge/LangGraph-1a1a2e?style=flat-square&logo=langchain&logoColor=58A6FF&labelColor=1a1a2e" height="48"/>
+  <img src="https://img.shields.io/badge/RAG-1a1a2e?style=flat-square&logo=openai&logoColor=58A6FF" height="48"/>
+  <img src="https://img.shields.io/badge/Vector_DB-1a1a2e?style=flat-square&logo=pinecone&logoColor=58A6FF" height="48"/>
+  <img src="https://img.shields.io/badge/Knowledge_Graph-1a1a2e?style=flat-square&logo=neo4j&logoColor=58A6FF" height="48"/>
+  <img src="https://img.shields.io/badge/XGBoost-1a1a2e?style=flat-square&logo=python&logoColor=FF6F00" height="48"/>
+  <img src="https://img.shields.io/badge/RLHF%20%2F%20RLMF-1a1a2e?style=flat-square&logo=openai&logoColor=58A6FF" height="48"/>
+  <img src="https://img.shields.io/badge/CNN-1a1a2e?style=flat-square&logo=pytorch&logoColor=EE4C2C" height="48"/>
+  <img src="https://img.shields.io/badge/MCP-1a1a2e?style=flat-square&logo=anthropic&logoColor=white" height="48"/>
 </p>
 
 **Infrastructure & Cloud**
-
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,docker,firebase,git,mongodb,mysql,linux" />
-  </a>&nbsp;
-  <img src="https://img.shields.io/badge/Vertex_AI-0d1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4"/>
-  <img src="https://img.shields.io/badge/BigQuery-0d1117?style=for-the-badge&logo=googlebigquery&logoColor=4285F4"/>
-  <img src="https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
+  <img src="https://skillicons.dev/icons?i=gcp,docker,firebase,git,mongodb,mysql,linux&theme=dark" />
+  <img src="https://img.shields.io/badge/Vertex_AI-1a1a2e?style=flat-square&logo=googlecloud&logoColor=4285F4" height="48"/>
+  <img src="https://img.shields.io/badge/BigQuery-1a1a2e?style=flat-square&logo=googlebigquery&logoColor=4285F4" height="48"/>
+  <img src="https://img.shields.io/badge/Streamlit-1a1a2e?style=flat-square&logo=streamlit&logoColor=FF4B4B" height="48"/>
 </p>
 
 ---
@@ -121,10 +112,12 @@ alok = {
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| 🤖 **Enterprise AI System** | Modular multi-agent system processing heterogeneous data through unified pipelines; RAG across structured & unstructured data with Neo4j | Python · RAG · Neo4j · LangGraph | 🔨 In Progress |
-| 📈 **Zeta** | Distributed real-time stock market analysis system; scalable ingestion, processing & monitoring architecture | Python · MongoDB · Docker · GCP · APIs | 🔨 In Progress |
-| 🎤 **InterviewIQ** | Interactive interview simulation with multi-dimensional evaluation pipelines and structured feedback generation | Python · Streamlit · APIs | ✅ Shipped |
-| 🌿 **Plant Disease Detector** | CNN-based plant disease classifier; iterative model optimization achieving high validation accuracy | CNNs · Python · Streamlit | ✅ Shipped |
+| 🤖 **[Enterprise AI System](https://github.com/Nick-Prism/enterprise-ai-analyst)** | Modular multi-agent system processing heterogeneous data through unified pipelines; RAG across structured & unstructured data with Neo4j | Python · RAG · Neo4j · LangGraph | 🔒 Private · 🔨 In Progress |
+| 📈 **[Zeta](https://github.com/Nick-Prism/portfolio-manager)** | Distributed real-time stock market analysis; scalable ingestion, processing & monitoring on GCP | Python · MongoDB · Docker · GCP | 🔨 In Progress |
+| 🧪 **[Research Agent (AutoGen)](https://github.com/Nick-Prism/researchagent_autogen)** | Autonomous multi-agent research pipeline using AutoGen; agent coordination and task decomposition | Python · AutoGen · LLMs | ✅ Public |
+| 🤖 **[Agent Architects Studio](https://github.com/Nick-Prism/agent-architects-studio)** | Experimental multi-agent architecture studio | Python | ✅ Public |
+| 🎤 **InterviewIQ** | Interactive interview simulation with multi-dimensional evaluation pipelines and structured feedback | Python · Streamlit · APIs | ✅ Shipped |
+| 🌿 **[Plant Disease Detector](https://github.com/Nick-Prism/Plant_Disease_Detector)** | CNN-based plant disease classifier; 97.9% validation accuracy | CNNs · Python · Streamlit | ✅ Public |
 
 </details>
 
@@ -132,7 +125,7 @@ alok = {
 <summary><b>💼 Professional Experience</b></summary>
 <br>
 
-**AI Intern — QuickInsights** *(Nov 2025 – May 2026)*
+**AI Intern — QuickInsights** *(Nov 2025 – Apr 2026)*
 - Built data processing pipelines for large-scale performance analysis on cloud
 - Designed AI workflows improving system efficiency and automation by **45%**
 
@@ -183,7 +176,7 @@ alok = {
     <img src="https://img.shields.io/badge/GitHub-Nick--Prism-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:alok.cs23@bmsce.ac.in">
-    <img src="https://img.shields.io/badge/Email-alok.cs23@bmsce.ac.in-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+    <img src="https://img.shields.io/badge/Email-alok.cs23%40bmsce.ac.in-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
   <a href="https://www.linkedin.com/in/alok-aeri-b3b1122b5/">
     <img src="https://img.shields.io/badge/LinkedIn-Alok_Aeri-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
@@ -192,7 +185,6 @@ alok = {
 
 ---
 
-<!-- Footer Wave -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=100&section=footer"/>
 </div>
