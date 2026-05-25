@@ -132,6 +132,12 @@ alok = {
  It's to build AI that makes thinking worth doing."
 ```
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nick-Prism/Nick-Prism/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nick-Prism/Nick-Prism/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Nick-Prism/Nick-Prism/output/github-contribution-grid-snake.svg">
+</picture>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Nick-Prism&style=flat-square&color=58A6FF&label=profile+views)
 
 </div>
