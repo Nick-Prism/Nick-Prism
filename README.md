@@ -1,11 +1,11 @@
 <!-- Header Wave Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58A6FF&height=200&section=header&text=ALOK&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Researcher%20%C2%B7%20Builder&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58A6FF&height=220&section=header&text=ALOK%20AERI&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Researcher%20%C2%B7%20Builder&descAlignY=60&descSize=20&animation=fadeIn&fontAlign=50" width="100%"/>
 </div>
 
-<!-- Typing SVG -->
+<!-- Typing tagline -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Agentic+AI+%7C+Multi-Agent+Systems+%7C+RLHF;Large-Scale+LLM+Deployment+%7C+MLOps;Building+systems+that+learn+%F0%9F%A4%96;Seeking+Research+Internship+%40+HKU+CDS+%F0%9F%87%AD%F0%9F%87%B0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=Agentic+AI+%7C+Multi-Agent+Systems+%7C+RLHF+%7C+RLMF;Large-Scale+LLM+Deployment+%7C+MLOps+%7C+GCP;Building+systems+that+learn+%F0%9F%A4%96;Open+to+Research+Internships" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -16,21 +16,21 @@
 
 ## About Me
 
-<img align="right" width="260" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer gif"/>
+<img align="right" width="270" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
 I'm drawn to problems that **don't have clean answers yet.**
 
-Pre-final year CS student at BMS College of Engineering, building multi-agent AI systems — getting language models to coordinate, make decisions, and operate with real autonomy. I've built multi-agent dashboards and report generators with **LangGraph + GCP**, fine-tuned models on **Vertex AI**, and designed **RAG pipelines** integrated with BigQuery.
+Pre-final year CS student at BMS College of Engineering (GPA: 9.39), building multi-agent AI systems — getting language models to coordinate, make decisions, and operate with real autonomy. I've shipped production AI systems at **QuickInsights** and **Samsung PRISM**, built multi-agent pipelines on **LangGraph + GCP**, fine-tuned models on **Vertex AI**, and designed **RAG pipelines** integrated with BigQuery and Neo4j.
 
 I tend to test limits rather than accept them. Some of my best work came from ignoring what I was *supposed* to do.
 
-Outside AI — I care about **cars & engines, graphic design, astronomy, and physics.**  
+Outside AI — I care about **cars & engines, graphic design, astronomy, and physics.**
 *Whether it's a V10 or a Vector DB — I like understanding how things work.*
 
 ```python
 alok = {
     "currently" : "Agentic architectures & distributed ML pipelines",
-    "seeking"   : "Research Internship @ HKU CDS · Summer 2026",
+    "open_to"   : "Research Internships in AI / ML / Data Science",
     "motto"     : "Build systems that learn. Learn systems that matter."
 }
 ```
@@ -41,36 +41,39 @@ alok = {
 
 ## ⚙️ Tech Stack
 
-### Languages
+**Languages**
+
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c" />
+    <img src="https://skillicons.dev/icons?i=python,java,c,js" />
   </a>
 </p>
 
-### AI / ML
+**AI / ML**
+
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-  </a>
+  </a>&nbsp;
   <img src="https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logo=langchain&logoColor=58A6FF"/>
   <img src="https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logo=openai&logoColor=58A6FF"/>
   <img src="https://img.shields.io/badge/Vector_DB-0d1117?style=for-the-badge&logo=pinecone&logoColor=58A6FF"/>
   <img src="https://img.shields.io/badge/Knowledge_Graph-0d1117?style=for-the-badge&logo=neo4j&logoColor=58A6FF"/>
   <img src="https://img.shields.io/badge/XGBoost-0d1117?style=for-the-badge&logo=python&logoColor=FF6F00"/>
-  <img src="https://img.shields.io/badge/RLHF-0d1117?style=for-the-badge&logo=openai&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/RLHF%20%2F%20RLMF-0d1117?style=for-the-badge&logo=openai&logoColor=58A6FF"/>
   <img src="https://img.shields.io/badge/CNN-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
   <img src="https://img.shields.io/badge/MCP-0d1117?style=for-the-badge&logo=anthropic&logoColor=58A6FF"/>
 </p>
 
-### Infrastructure & Cloud
+**Infrastructure & Cloud**
+
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,docker,firebase,git,mongodb,mysql" />
-  </a>
-  <img src="https://img.shields.io/badge/REST_API-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688"/>
-  <img src="https://img.shields.io/badge/BigQuery-0d1117?style=for-the-badge&logo=googlebigquery&logoColor=4285F4"/>
+    <img src="https://skillicons.dev/icons?i=gcp,docker,firebase,git,mongodb,mysql,linux" />
+  </a>&nbsp;
   <img src="https://img.shields.io/badge/Vertex_AI-0d1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4"/>
+  <img src="https://img.shields.io/badge/BigQuery-0d1117?style=for-the-badge&logo=googlebigquery&logoColor=4285F4"/>
+  <img src="https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
 </p>
 
 ---
@@ -94,8 +97,8 @@ alok = {
   </tr>
   <tr>
     <td align="center">
-      <b>📊 RLHF & Alignment</b><br/>
-      <sub>Reward modelling, preference learning & constitutional AI</sub>
+      <b>📊 RLHF & RLMF</b><br/>
+      <sub>Reward modelling from human & market feedback, preference learning</sub>
     </td>
     <td align="center">
       <b>🔍 RAG + Knowledge Graphs</b><br/>
@@ -110,63 +113,58 @@ alok = {
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects
 
 <details open>
-<summary><b>🚀 Projects</b></summary>
+<summary><b>🚀 Featured Work</b></summary>
 <br>
 
-| Project | Description | Stack |
-|---|---|---|
-| 🤖 **Multi-Agent Orchestrator** | LangGraph agent framework with persistent agentic memory, tool-use & coordinated decision-making | LangGraph · Python · Vector DB · GCP |
-| 🔍 **RAG + Knowledge Graph Pipeline** | Scalable retrieval-augmented generation grounded in structured knowledge — integrated with BigQuery | RAG · Neo4j · BigQuery · GCP |
-| 🚀 **MLOps Deployment Platform** | End-to-end ML pipeline with model monitoring, CI/CD and cloud serving on Vertex AI | Docker · Vertex AI · TensorFlow |
-| 🧠 **RLHF Fine-tuning Pipeline** | Custom reward modelling & instruction-following fine-tuning; preference dataset construction | Python · RL · TensorFlow |
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| 🤖 **Enterprise AI System** | Modular multi-agent system processing heterogeneous data through unified pipelines; RAG across structured & unstructured data with Neo4j | Python · RAG · Neo4j · LangGraph | 🔨 In Progress |
+| 📈 **Zeta** | Distributed real-time stock market analysis system; scalable ingestion, processing & monitoring architecture | Python · MongoDB · Docker · GCP · APIs | 🔨 In Progress |
+| 🎤 **InterviewIQ** | Interactive interview simulation with multi-dimensional evaluation pipelines and structured feedback generation | Python · Streamlit · APIs | ✅ Shipped |
+| 🌿 **Plant Disease Detector** | CNN-based plant disease classifier; iterative model optimization achieving high validation accuracy | CNNs · Python · Streamlit | ✅ Shipped |
+
+</details>
+
+<details>
+<summary><b>💼 Professional Experience</b></summary>
+<br>
+
+**AI Intern — QuickInsights** *(Nov 2025 – Apr 2026)*
+- Built data processing pipelines for large-scale performance analysis on cloud
+- Designed AI workflows improving system efficiency and automation by **45%**
+
+**R&D Intern — Samsung Electronics (Samsung PRISM)** *(Jul 2025 – Mar 2026)*
+- Developed a scalable content extraction system across **10,000+ documents**
+- Improved accuracy and performance through iterative optimization
 
 </details>
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Certifications & Achievements
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nick-Prism&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github"/>
-  &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nick-Prism&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Nick-Prism&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6F00&currStreakLabel=58A6FF"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nick-Prism&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=4"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nick-Prism&theme=github_dark"/>
-</div>
+- 🎖️ **Oracle Generative AI Professional** Certification (2025)
+- ☁️ **Google Cloud Skills Boost** Badges (2024)
+- 🥇 Quarter Finalist — **CodeSphere** National Level Codeathon @ BMSCE
+- 🥇 Quarter Finalist — **Xcel Hackathon** @ BMSCE
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Exploring
 
 ```
 [ ████████░░ ] Agentic Memory Systems & Long-horizon Planning
-[ ███████░░░ ] Advanced RLHF & Constitutional AI Techniques  
-[ ██████░░░░ ] Distributed LLM Inference & Serving at Scale  
-[ █████░░░░░ ] MCP Protocol & Tool-augmented Agent Design    
+[ ███████░░░ ] RLHF / RLMF — Reward Modelling from Human & Market Feedback
+[ ██████░░░░ ] Distributed LLM Inference & Serving at Scale
+[ █████░░░░░ ] MCP Protocol & Tool-augmented Agent Design
 ```
 
 ---
 
 ## 🐍 Contribution Graph
-
-> ⚠️ **Setup required:** Add `.github/workflows/snake.yml` and run the action once from the Actions tab to generate this animation.
 
 <div align="center">
   <picture>
@@ -178,17 +176,17 @@ alok = {
 
 ---
 
-## 📬 Find Me Around the Web
+## 📬 Find Me
 
 <p align="center">
   <a href="https://github.com/Nick-Prism">
     <img src="https://img.shields.io/badge/GitHub-Nick--Prism-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:alok.cs23@bmsce.ac.in">
-    <img src="https://img.shields.io/badge/Email-Reach_Out-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+    <img src="https://img.shields.io/badge/Email-alok.cs23@bmsce.ac.in-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
   <a href="https://www.linkedin.com/in/alok-aeri-b3b1122b5/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Alok_Aeri-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
 </p>
 
