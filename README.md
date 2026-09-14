@@ -22,7 +22,7 @@
  
 I'm drawn to problems that **don't have clean answers yet.**
  
-Pre-final year CS student at BMS College of Engineering (GPA: 9.39), building multi-agent AI systems — getting language models to coordinate, make decisions, and operate with real autonomy. I've shipped production AI systems at **QuickInsights** and **Samsung PRISM**, built multi-agent pipelines on **LangGraph + GCP**, fine-tuned models on **Vertex AI**, and designed **RAG pipelines** integrated with BigQuery and Neo4j.
+Final year CS student at BMS College of Engineering (GPA: 9.39), building multi-agent AI systems — getting language models to coordinate, make decisions, and operate with real autonomy. I've shipped production AI systems at **QuickInsights** and **Samsung PRISM**, built multi-agent pipelines on **LangGraph + GCP**, fine-tuned models on **Vertex AI**, and designed **RAG pipelines** integrated with BigQuery and Neo4j.
  
 I tend to test limits rather than accept them. Some of my best work came from ignoring what I was *supposed* to do.
  
