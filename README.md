@@ -1,9 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58A6FF&height=220&section=header&text=ALOK%20AERI&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Researcher%20%C2%B7%20Builder&descAlignY=60&descSize=20&animation=fadeIn&fontAlign=50" width="100%" alt="Alok Aeri · AI / ML Engineer · Researcher · Builder"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58A6FF&height=180&section=header&text=ALOK%20AERI&fontSize=68&fontColor=ffffff&fontAlignY=45&animation=fadeIn&fontAlign=50" width="100%" alt="Alok Aeri"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&height=44&letterSpacing=0.3px&lines=Agentic+AI+%7C+Multi-Agent+Systems+%7C+RLHF+%7C+RLMF;Large-Scale+LLM+Deployment+%7C+MLOps+%7C+GCP;Hybrid+RAG+%7C+Knowledge+Graphs+%7C+Enterprise+AI;Building+systems+that+learn;Open+to+AI%2FML+Roles+%26+Research+Internships" alt="Rotating tagline: Agentic AI, Multi-Agent Systems, Hybrid RAG, open to AI/ML roles and research internships"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tagline-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/tagline-light.svg">
+    <img src="assets/tagline-light.svg" width="860" alt="AI / ML Engineer · Researcher · Builder — Agentic AI, Multi-Agent Systems, Hybrid RAG; open to AI/ML roles and research internships"/>
+  </picture>
 </div>
 
 <p align="center">
@@ -24,7 +28,7 @@ I'm drawn to problems that **don't have clean answers yet.**
 
 Final year CS student at BMS College of Engineering (GPA: 9.31), building multi-agent AI systems — getting language models to coordinate, make decisions, and operate with real autonomy. I've shipped production AI systems at **QuickInsights** and **Samsung PRISM**, built multi-agent pipelines on **LangGraph + GCP**, fine-tuned models on **Vertex AI**, and designed **RAG pipelines** integrated with BigQuery and Neo4j.
 
-My final-year project is a **hybrid-RAG Enterprise AI System** (Qdrant · Neo4j · PostgreSQL, with cross-encoder reranking), and I'm writing an **IEEE survey paper** on enterprise AI systems.
+My final-year project is a **hybrid-RAG Enterprise AI System** (Qdrant · Neo4j · PostgreSQL, with cross-encoder reranking), and I'm writing a **survey and a research paper** on enterprise AI systems.
 
 I tend to test limits rather than accept them. Some of my best work came from ignoring what I was *supposed* to do.
 
