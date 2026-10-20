@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400" role="img" aria-labelledby="ttl">
+  <title id="ttl">Animated diagram: an orchestrator exchanging messages with six cooperating agents — plan, RAG, graph, tools, critic, memory</title>
+  <defs>
+    <radialGradient id="core" cx=".38" cy=".34" r=".85">
+      <stop offset="0" stop-color="#e6f1ff"/>
+      <stop offset=".45" stop-color="#0969da"/>
+      <stop offset="1" stop-color="#0550ae"/>
+    </radialGradient>
+    <radialGradient id="halo" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#0969da" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#0969da" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      @font-face { font-family:'CG Caps'; font-weight:600; font-style:normal;
+        src:url(data:font/woff2;base64,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) format('woff2'); }
+      .lab { font:600 11.5px 'CG Caps', 'Cormorant Garamond', Georgia, 'Times New Roman', serif;
+              letter-spacing:2.4px; fill:#57606a; }
+    </style>
+  </defs>
+
+  <!-- slow outer orbit -->
+  <g>
+    <circle cx="200" cy="200" r="185" fill="none" stroke="#0969da" stroke-opacity=".30" stroke-width="1" stroke-dasharray="1.5 7"/>
+    <g>
+      <circle cx="373.8" cy="263.3" r="2.6" fill="#0969da"/>
+      <circle cx="58.3" cy="318.9" r="2.6" fill="#0969da"/>
+      <circle cx="174.3" cy="16.8" r="2.6" fill="#0969da"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 200 200" to="360 200 200" dur="70s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <!-- agent ring guide -->
+  <circle cx="200" cy="200" r="108" fill="none" stroke="#0969da" stroke-opacity=".12" stroke-width="1"/>
+  <circle cx="200" cy="200" r="78" fill="url(#halo)"/>
+
+  <!-- links -->
+  <g>
+    <line x1="200" y1="200" x2="200.0" y2="92.0" stroke="#0969da" stroke-opacity=".38" stroke-width="1"/>
+    <line x1="200" y1="200" x2="293.5" y2="146.0" stroke="#0969da" stroke-opacity=".38" stroke-width="1"/>
+    <line x1="200" y1="200" x2="293.5" y2="254.0" stroke="#0969da" stroke-opacity=".38" stroke-width="1"/>
+    <line x1="200" y1="200" x2="200.0" y2="308.0" stroke="#0969da" stroke-opacity=".38" stroke-width="1"/>
+    <line x1="200" y1="200" x2="106.5" y2="254.0" stroke="#0969da" stroke-opacity=".38" stroke-width="1"/>
+    <line x1="200" y1="200" x2="106.5" y2="146.0" stroke="#0969da" stroke-opacity=".38" stroke-width="1"/>
+    <polygon points="200.0,92.0 293.5,146.0 293.5,254.0 200.0,308.0 106.5,254.0 106.5,146.0" fill="none" stroke="#0969da" stroke-opacity=".34" stroke-width="1" stroke-dasharray="3 6"><animate attributeName="stroke-dashoffset" from="0" to="-18" dur="2.4s" repeatCount="indefinite"/></polygon>
+  </g>
+
+  <!-- orchestrator: two staggered pulse rings, core, sparkle -->
+  <g>
+    <circle cx="200" cy="200" r="30" fill="none" stroke="#0969da" stroke-width="1.2" opacity="0">
+      <animate attributeName="r" values="30;62" dur="3.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".55;0" dur="3.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="200" cy="200" r="30" fill="none" stroke="#0969da" stroke-width="1.2" opacity="0">
+      <animate attributeName="r" values="30;62" dur="3.4s" begin="1.7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".55;0" dur="3.4s" begin="1.7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="200" cy="200" r="28" fill="url(#core)"/>
+    <g transform="translate(200 200)">
+      <path d="M0 -13 Q1.6 -1.6 13 0 Q1.6 1.6 0 13 Q-1.6 1.6 -13 0 Q-1.6 -1.6 0 -13Z" fill="#ffffff">
+        <animateTransform attributeName="transform" type="scale" values="1;1.16;1" dur="3.4s" repeatCount="indefinite"/>
+      </path>
+    </g>
+  </g>
+
+  <!-- agents -->
+  <g>
+    <g>
+      <circle cx="200.0" cy="92.0" r="15" fill="#ffffff" stroke="#0969da" stroke-width="1.4"/>
+      <circle cx="200.0" cy="92.0" r="4.6" fill="#0969da">
+        <animate attributeName="opacity" values=".35;1;.35" dur="3.2s" begin="-0.00s" repeatCount="indefinite"/>
+        <animate attributeName="r" values="3.6;5.4;3.6" dur="3.2s" begin="-0.00s" repeatCount="indefinite"/>
+      </circle>
+      <text class="lab" x="200.0" y="68.0" text-anchor="middle">PLAN</text>
+    </g>
+    <g>
+      <circle cx="293.5" cy="146.0" r="15" fill="#ffffff" stroke="#0969da" stroke-width="1.4"/>
+      <circle cx="293.5" cy="146.0" r="4.6" fill="#0969da">
+        <animate attributeName="opacity" values=".35;1;.35" dur="3.2s" begin="-0.53s" repeatCount="indefinite"/>
+        <animate attributeName="r" values="3.6;5.4;3.6" dur="3.2s" begin="-0.53s" repeatCount="indefinite"/>
+      </circle>
+      <text class="lab" x="317.5" y="150.0" text-anchor="start">RAG</text>
+    </g>
+    <g>
+      <circle cx="293.5" cy="254.0" r="15" fill="#ffffff" stroke="#0969da" stroke-width="1.4"/>
+      <circle cx="293.5" cy="254.0" r="4.6" fill="#0969da">
+        <animate attributeName="opacity" values=".35;1;.35" dur="3.2s" begin="-1.06s" repeatCount="indefinite"/>
+        <animate attributeName="r" values="3.6;5.4;3.6" dur="3.2s" begin="-1.06s" repeatCount="indefinite"/>
+      </circle>
+      <text class="lab" x="317.5" y="258.0" text-anchor="start">GRAPH</text>
+    </g>
+    <g>
+      <circle cx="200.0" cy="308.0" r="15" fill="#ffffff" stroke="#0969da" stroke-width="1.4"/>
+      <circle cx="200.0" cy="308.0" r="4.6" fill="#0969da">
+        <animate attributeName="opacity" values=".35;1;.35" dur="3.2s" begin="-1.59s" repeatCount="indefinite"/>
+        <animate attributeName="r" values="3.6;5.4;3.6" dur="3.2s" begin="-1.59s" repeatCount="indefinite"/>
+      </circle>
+      <text class="lab" x="200.0" y="340.0" text-anchor="middle">TOOLS</text>
+    </g>
+    <g>
+      <circle cx="106.5" cy="254.0" r="15" fill="#ffffff" stroke="#0969da" stroke-width="1.4"/>
+      <circle cx="106.5" cy="254.0" r="4.6" fill="#0969da">
+        <animate attributeName="opacity" values=".35;1;.35" dur="3.2s" begin="-2.12s" repeatCount="indefinite"/>
+        <animate attributeName="r" values="3.6;5.4;3.6" dur="3.2s" begin="-2.12s" repeatCount="indefinite"/>
+      </circle>
+      <text class="lab" x="82.5" y="258.0" text-anchor="end">CRITIC</text>
+    </g>
+    <g>
+      <circle cx="106.5" cy="146.0" r="15" fill="#ffffff" stroke="#0969da" stroke-width="1.4"/>
+      <circle cx="106.5" cy="146.0" r="4.6" fill="#0969da">
+        <animate attributeName="opacity" values=".35;1;.35" dur="3.2s" begin="-2.65s" repeatCount="indefinite"/>
+        <animate attributeName="r" values="3.6;5.4;3.6" dur="3.2s" begin="-2.65s" repeatCount="indefinite"/>
+      </circle>
+      <text class="lab" x="82.5" y="150.0" text-anchor="end">MEMORY</text>
+    </g>
+  </g>
+
+  <!-- messages in flight -->
+  <g>
+    <circle r="3.3" fill="#0969da" opacity="0">
+      <animateMotion dur="2.6s" begin="0.00s" repeatCount="indefinite" path="M200,200 L200.0,92.0" calcMode="spline" keyTimes="0;1" keySplines=".45 0 .2 1" keyPoints="0;1"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.14;.84;1" dur="2.6s" begin="0.00s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3.3" fill="#0969da" opacity="0">
+      <animateMotion dur="2.6s" begin="0.43s" repeatCount="indefinite" path="M293.5,146.0 L200,200" calcMode="spline" keyTimes="0;1" keySplines=".45 0 .2 1" keyPoints="0;1"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.14;.84;1" dur="2.6s" begin="0.43s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3.3" fill="#0969da" opacity="0">
+      <animateMotion dur="2.6s" begin="0.86s" repeatCount="indefinite" path="M200,200 L293.5,254.0" calcMode="spline" keyTimes="0;1" keySplines=".45 0 .2 1" keyPoints="0;1"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.14;.84;1" dur="2.6s" begin="0.86s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3.3" fill="#0969da" opacity="0">
+      <animateMotion dur="2.6s" begin="1.29s" repeatCount="indefinite" path="M200.0,308.0 L200,200" calcMode="spline" keyTimes="0;1" keySplines=".45 0 .2 1" keyPoints="0;1"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.14;.84;1" dur="2.6s" begin="1.29s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3.3" fill="#0969da" opacity="0">
+      <animateMotion dur="2.6s" begin="1.72s" repeatCount="indefinite" path="M200,200 L106.5,254.0" calcMode="spline" keyTimes="0;1" keySplines=".45 0 .2 1" keyPoints="0;1"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.14;.84;1" dur="2.6s" begin="1.72s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3.3" fill="#0969da" opacity="0">
+      <animateMotion dur="2.6s" begin="2.15s" repeatCount="indefinite" path="M106.5,146.0 L200,200" calcMode="spline" keyTimes="0;1" keySplines=".45 0 .2 1" keyPoints="0;1"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.14;.84;1" dur="2.6s" begin="2.15s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
