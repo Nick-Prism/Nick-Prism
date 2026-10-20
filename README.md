@@ -1,78 +1,118 @@
-<!-- Header Wave Banner -->
-<!-- Typing tagline -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58A6FF&height=220&section=header&text=ALOK%20AERI&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Researcher%20%C2%B7%20Builder&descAlignY=60&descSize=20&animation=fadeIn&fontAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58A6FF&height=220&section=header&text=ALOK%20AERI&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Researcher%20%C2%B7%20Builder&descAlignY=60&descSize=20&animation=fadeIn&fontAlign=50" width="100%" alt="Alok Aeri · AI / ML Engineer · Researcher · Builder"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=Agentic+AI+%7C+Multi-Agent+Systems+%7C+RLHF+%7C+RLMF;Large-Scale+LLM+Deployment+%7C+MLOps+%7C+GCP;Building+systems+that+learn+%F0%9F%A4%96;Open+to+Research+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&height=44&letterSpacing=0.3px&lines=Agentic+AI+%7C+Multi-Agent+Systems+%7C+RLHF+%7C+RLMF;Large-Scale+LLM+Deployment+%7C+MLOps+%7C+GCP;Hybrid+RAG+%7C+Knowledge+Graphs+%7C+Enterprise+AI;Building+systems+that+learn;Open+to+AI%2FML+Roles+%26+Research+Internships" alt="Rotating tagline: Agentic AI, Multi-Agent Systems, Hybrid RAG, open to AI/ML roles and research internships"/>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nick-Prism&label=Profile+views&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://hits.sh/github.com/Nick-Prism/Nick-Prism/">
+    <img src="https://hits.sh/github.com/Nick-Prism/Nick-Prism.svg?style=for-the-badge&label=Profile%20views&color=58A6FF&labelColor=161b22" alt="Profile views"/>
+  </a>
 </p>
 
 ---
 
 ## About Me
- 
+
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="58%" valign="top">
- 
+
 I'm drawn to problems that **don't have clean answers yet.**
- 
+
 Final year CS student at BMS College of Engineering (GPA: 9.39), building multi-agent AI systems — getting language models to coordinate, make decisions, and operate with real autonomy. I've shipped production AI systems at **QuickInsights** and **Samsung PRISM**, built multi-agent pipelines on **LangGraph + GCP**, fine-tuned models on **Vertex AI**, and designed **RAG pipelines** integrated with BigQuery and Neo4j.
- 
+
+My final-year project is a **hybrid-RAG Enterprise AI System** (Qdrant · Neo4j · PostgreSQL, with cross-encoder reranking), and I'm writing an **IEEE survey paper** on enterprise AI systems.
+
 I tend to test limits rather than accept them. Some of my best work came from ignoring what I was *supposed* to do.
- 
+
 Outside AI — I care about **cars & engines, graphic design, astronomy, and physics.**
 *Whether it's a V10 or a Vector DB — I like understanding how things work.*
- 
+
 ```python
 alok = {
-    "currently" : "Agentic architectures & distributed ML pipelines",
-    "open_to"   : "Research Internships in AI / ML / Data Science",
+    "currently" : "Hybrid RAG, agentic architectures & an IEEE survey on enterprise AI",
+    "open_to"   : "AI / ML roles & research internships",
     "motto"     : "Build systems that learn. Learn systems that matter."
 }
 ```
- 
+
 </td>
 <td width="42%" align="center" valign="top">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding gif"/>
 </td>
 </tr>
 </table>
- 
+
 ---
 
 ## ⚙️ Tech Stack
 
-**Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,js&theme=dark" />
-</p>
-
-**AI / ML**
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-  <img src="https://img.shields.io/badge/LangGraph-1a1a2e?style=flat-square&logo=langchain&logoColor=58A6FF&labelColor=1a1a2e" height="48"/>
-  <img src="https://img.shields.io/badge/RAG-1a1a2e?style=flat-square&logo=openai&logoColor=58A6FF" height="48"/>
-  <img src="https://img.shields.io/badge/Vector_DB-1a1a2e?style=flat-square&logo=pinecone&logoColor=58A6FF" height="48"/>
-  <img src="https://img.shields.io/badge/Knowledge_Graph-1a1a2e?style=flat-square&logo=neo4j&logoColor=58A6FF" height="48"/>
-  <img src="https://img.shields.io/badge/XGBoost-1a1a2e?style=flat-square&logo=python&logoColor=FF6F00" height="48"/>
-  <img src="https://img.shields.io/badge/RLHF%20%2F%20RLMF-1a1a2e?style=flat-square&logo=openai&logoColor=58A6FF" height="48"/>
-  <img src="https://img.shields.io/badge/CNN-1a1a2e?style=flat-square&logo=pytorch&logoColor=EE4C2C" height="48"/>
-  <img src="https://img.shields.io/badge/MCP-1a1a2e?style=flat-square&logo=anthropic&logoColor=white" height="48"/>
-</p>
-
-**Infrastructure & Cloud**
-<p>
-  <img src="https://skillicons.dev/icons?i=gcp,docker,firebase,git,mongodb,mysql,linux&theme=dark" />
-  <img src="https://img.shields.io/badge/Vertex_AI-1a1a2e?style=flat-square&logo=googlecloud&logoColor=4285F4" height="48"/>
-  <img src="https://img.shields.io/badge/BigQuery-1a1a2e?style=flat-square&logo=googlebigquery&logoColor=4285F4" height="48"/>
-  <img src="https://img.shields.io/badge/Streamlit-1a1a2e?style=flat-square&logo=streamlit&logoColor=FF4B4B" height="48"/>
-</p>
+<table width="100%">
+  <tr>
+    <td width="22%"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/>
+      <img src="https://img.shields.io/badge/Java-161b22?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java"/>
+      <img src="https://img.shields.io/badge/C-161b22?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C"/>
+      <img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="22%"><b>AI / ML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-161b22?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch"/>
+      <img src="https://img.shields.io/badge/TensorFlow-161b22?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow"/>
+      <img src="https://img.shields.io/badge/LangGraph-161b22?style=for-the-badge&logo=langgraph&logoColor=ffffff" alt="LangGraph"/>
+      <img src="https://img.shields.io/badge/MCP-161b22?style=for-the-badge&logo=modelcontextprotocol&logoColor=ffffff" alt="MCP"/>
+      <img src="https://img.shields.io/badge/Vertex_AI-161b22?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Vertex AI"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="22%"><b>Data &amp; Retrieval</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Qdrant-161b22?style=for-the-badge&logo=qdrant&logoColor=DC244C" alt="Qdrant"/>
+      <img src="https://img.shields.io/badge/Neo4j-161b22?style=for-the-badge&logo=neo4j&logoColor=4581C3" alt="Neo4j"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/MongoDB-161b22?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
+      <img src="https://img.shields.io/badge/MySQL-161b22?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/BigQuery-161b22?style=for-the-badge&logo=googlebigquery&logoColor=669DF6" alt="BigQuery"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="22%"><b>Backend &amp; Apps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/FastAPI-161b22?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/Next.js-161b22?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/Streamlit-161b22?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit"/>
+      <img src="https://img.shields.io/badge/Firebase-161b22?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="22%"><b>Cloud &amp; Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Google_Cloud-161b22?style=for-the-badge&logo=googlecloud&logoColor=4285F4" alt="Google Cloud"/>
+      <img src="https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
+      <img src="https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="22%"><b>Methods</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/RAG-161b22?style=for-the-badge" alt="RAG"/>
+      <img src="https://img.shields.io/badge/Hybrid_Retrieval-161b22?style=for-the-badge" alt="Hybrid Retrieval"/>
+      <img src="https://img.shields.io/badge/Knowledge_Graphs-161b22?style=for-the-badge" alt="Knowledge Graphs"/>
+      <img src="https://img.shields.io/badge/Multi--Agent_Systems-161b22?style=for-the-badge" alt="Multi-Agent Systems"/>
+      <img src="https://img.shields.io/badge/RLHF_%2F_RLMF-161b22?style=for-the-badge" alt="RLHF / RLMF"/>
+      <img src="https://img.shields.io/badge/CNNs-161b22?style=for-the-badge" alt="CNNs"/>
+      <img src="https://img.shields.io/badge/XGBoost-161b22?style=for-the-badge" alt="XGBoost"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -119,8 +159,9 @@ alok = {
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| 🤖 **Enterprise AI System** | Modular enterprise AI system for processing multimodal data through unified ingestion and retrieval pipelines; hybrid retrieval across structured, unstructured, and visual data with scalable, maintainable components | Python · RAG · Knowledge Graph · Neo4j · LangGraph | 🔒 Private · 🔨 In Progress |
+| 🤖 **Enterprise AI System** | Modular enterprise AI system for processing multimodal data through unified ingestion and retrieval pipelines; hybrid retrieval across structured, unstructured, and visual data (vector + BM25, graph, SQL) with cross-encoder reranking; scalable, maintainable components | Python · FastAPI · Next.js · Qdrant · Neo4j · PostgreSQL · LangGraph | 🔒 Private · 🔨 In Progress |
 | 📈 **[Zeta](https://github.com/Nick-Prism/portfolio-manager)** | Distributed real-time stock market analysis; multi-agent HITL reasoning system with a council of experts for price prediction; Telegram bot for trade automation; custom MCP integration with Zerodha; RLMF for pattern recognition | Python · LangGraph · MCP · MongoDB · Docker · GCP | 🔨 In Progress |
+| 📝 **IEEE Survey Paper** | *Enterprise AI Systems: A Comprehensive Survey of Foundational Architectures, Retrieval-Augmented Generation, and Multilingual Deployment* — multi-section survey paper | Literature survey · RAG · Multilingual LLMs | 📝 Drafting |
 | 🌿 **[Plant Disease Detector](https://github.com/Nick-Prism/Plant_Disease_Detector)** | Multi-model CNN implementation for plant disease detection and classification; iterative hyperparameter tuning; 97.9% validation accuracy | TensorFlow · CNNs · Python · Streamlit | ✅ Public |
 | 🎤 **[InterviewIQ](https://github.com/Nick-Prism/InterviewIQ)** | AI-powered interview simulation with automated evaluation pipelines; scoring logic across multiple dimensions with structured feedback generation; built in a 6-hour college hackathon | Python · Streamlit · APIs | ✅ Shipped |
 | 🏗️ **[Agent Architects Studio](https://github.com/Nick-Prism/agent-architects-studio)** | Experimental multi-agent architecture studio | Python | ✅ Public |
@@ -176,7 +217,7 @@ alok = {
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nick-Prism/Nick-Prism/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nick-Prism/Nick-Prism/output/github-contribution-grid-snake.svg">
-    <img alt="snake animation" src="https://raw.githubusercontent.com/Nick-Prism/Nick-Prism/output/github-contribution-grid-snake.svg"/>
+    <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/Nick-Prism/Nick-Prism/output/github-contribution-grid-snake.svg"/>
   </picture>
 </div>
 
@@ -186,20 +227,20 @@ alok = {
 
 <p align="center">
   <a href="https://github.com/Nick-Prism">
-    <img src="https://img.shields.io/badge/GitHub-Nick--Prism-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Nick--Prism-1a3a5c?style=for-the-badge&labelColor=161b22&logo=github&logoColor=ffffff" alt="GitHub"/>
   </a>
   <a href="mailto:alok.cs23@bmsce.ac.in">
-    <img src="https://img.shields.io/badge/Email-alok.cs23%40bmsce.ac.in-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+    <img src="https://img.shields.io/badge/Email-alok.cs23%40bmsce.ac.in-1a3a5c?style=for-the-badge&labelColor=161b22&logo=gmail&logoColor=ffffff" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/alok-aeri-b3b1122b5/">
-    <img src="https://img.shields.io/badge/LinkedIn-Alok_Aeri-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Alok_Aeri-1a3a5c?style=for-the-badge&labelColor=161b22&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzM3OEZFOSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B&logoColor=ffffff" alt="LinkedIn"/>
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=100&section=footer" width="100%" alt=""/>
 </div>
 
 <div align="center">
