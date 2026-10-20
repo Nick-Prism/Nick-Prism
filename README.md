@@ -22,14 +22,14 @@
 
 I'm drawn to problems that **don't have clean answers yet.**
 
-Final year CS student at BMS College of Engineering (GPA: 9.39), building multi-agent AI systems — getting language models to coordinate, make decisions, and operate with real autonomy. I've shipped production AI systems at **QuickInsights** and **Samsung PRISM**, built multi-agent pipelines on **LangGraph + GCP**, fine-tuned models on **Vertex AI**, and designed **RAG pipelines** integrated with BigQuery and Neo4j.
+Final year CS student at BMS College of Engineering (GPA: 9.31), building multi-agent AI systems — getting language models to coordinate, make decisions, and operate with real autonomy. I've shipped production AI systems at **QuickInsights** and **Samsung PRISM**, built multi-agent pipelines on **LangGraph + GCP**, fine-tuned models on **Vertex AI**, and designed **RAG pipelines** integrated with BigQuery and Neo4j.
 
 My final-year project is a **hybrid-RAG Enterprise AI System** (Qdrant · Neo4j · PostgreSQL, with cross-encoder reranking), and I'm writing an **IEEE survey paper** on enterprise AI systems.
 
 I tend to test limits rather than accept them. Some of my best work came from ignoring what I was *supposed* to do.
 
-Outside AI — I care about **cars & engines, graphic design, astronomy, and physics.**
-*Whether it's a V10 or a Vector DB — I like understanding how things work.*
+Outside AI, I care about **cars & engines, graphic design, astronomy, and physics.**
+*Whether it's a V10 or a Vector DB, I like understanding how things work.*
 
 ```python
 alok = {
