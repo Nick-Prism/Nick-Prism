@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58A6FF&height=110&section=header&text=ALOK%20AERI&fontSize=68&fontColor=ffffff&fontAlignY=43&animation=fadeIn&fontAlign=50" width="100%" alt="Alok Aeri"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58A6FF&height=220&section=header&text=ALOK%20AERI&fontSize=68&fontColor=ffffff&fontAlignY=43&animation=fadeIn&fontAlign=50" width="100%" alt="Alok Aeri"/>
 </div>
 
 <div align="center">
