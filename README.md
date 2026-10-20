@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58A6FF&height=180&section=header&text=ALOK%20AERI&fontSize=68&fontColor=ffffff&fontAlignY=45&animation=fadeIn&fontAlign=50" width="100%" alt="Alok Aeri"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58A6FF&height=110&section=header&text=ALOK%20AERI&fontSize=68&fontColor=ffffff&fontAlignY=43&animation=fadeIn&fontAlign=50" width="100%" alt="Alok Aeri"/>
 </div>
 
 <div align="center">
@@ -26,7 +26,7 @@
 
 I'm drawn to problems that **don't have clean answers yet.**
 
-Final year CS student at BMS College of Engineering (GPA: 9.31), building multi-agent AI systems — getting language models to coordinate, make decisions, and operate with real autonomy. I've shipped production AI systems at **QuickInsights** and **Samsung PRISM**, built multi-agent pipelines on **LangGraph + GCP**, fine-tuned models on **Vertex AI**, and designed **RAG pipelines** integrated with BigQuery and Neo4j.
+Final year CS student at BMS College of Engineering (GPA: 9.31), building multi-agent AI systems, getting language models to coordinate, make decisions, and operate with real autonomy. I've shipped production AI systems at **QuickInsights** and **Samsung PRISM**, built multi-agent pipelines on **LangGraph + GCP**, fine-tuned models on **Vertex AI**, and designed **RAG pipelines** integrated with BigQuery and Neo4j.
 
 My final-year project is a **hybrid-RAG Enterprise AI System** (Qdrant · Neo4j · PostgreSQL, with cross-encoder reranking), and I'm writing a **survey and a research paper** on enterprise AI systems.
 
@@ -35,6 +35,19 @@ I tend to test limits rather than accept them. Some of my best work came from ig
 Outside AI, I care about **cars & engines, graphic design, astronomy, and physics.**
 *Whether it's a V10 or a Vector DB, I like understanding how things work.*
 
+</td>
+<td width="42%" align="center" valign="middle">
+  <!-- To go back to the old animated GIF, replace the whole picture block below with:
+       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding gif"/> -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/agents-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/agents-light.svg">
+    <img src="assets/agents-light.svg" width="100%" alt="Animated diagram of cooperating AI agents exchanging messages"/>
+  </picture>
+</td>
+</tr>
+</table>
+
 ```python
 alok = {
     "currently" : "Hybrid RAG, agentic architectures & an IEEE survey on enterprise AI",
@@ -42,13 +55,6 @@ alok = {
     "motto"     : "Build systems that learn. Learn systems that matter."
 }
 ```
-
-</td>
-<td width="42%" align="center" valign="top">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding gif"/>
-</td>
-</tr>
-</table>
 
 ---
 
