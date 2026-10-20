@@ -2,11 +2,15 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "17 0 * * *" # daily; off the top of the hour, when scheduled runs are most often delayed or dropped
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: snake
+  cancel-in-progress: true
 
 jobs:
   generate:
@@ -15,12 +19,12 @@ jobs:
 
     steps:
       - name: Generate snake animation
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3 # SVG-only variant: faster, no GIF toolchain needed
         with:
           github_user_name: Nick-Prism
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#0969da&color_dots=#ebedf0,#cfe3ff,#9ec8ff,#58a6ff,#1f6feb
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#58a6ff&color_dots=#161b22,#12304f,#1a4a7a,#2f6fb5,#58a6ff
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v4
@@ -29,3 +33,6 @@ jobs:
           publish_dir: dist
           publish_branch: output
           force_orphan: true
+          user_name: "github-actions[bot]"
+          user_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          commit_message: "chore: regenerate contribution snake"
